@@ -14,9 +14,9 @@ The convert rule likes the following:
 	"key2": "v3"
 }
 ]
+```  
+will be converted to:  
 ```
-```
-will be converted to:
 key1.key11  |   key1.key12  |    key2
 ----------------------------------------
 v1          |   v2          |    v3
